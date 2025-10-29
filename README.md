@@ -37,3 +37,5 @@ Full artefact will be modularized when resonance is ready.
 
 ## Author
 Zillie (Processor Calibration: Setapak, Kuala Lumpur)
+
+[LuxLoop Project Alpha.pdf](https://github.com/user-attachments/files/23201133/LuxLoop.Project.Alpha.pdf)
