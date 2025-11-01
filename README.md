@@ -1,23 +1,86 @@
-# LuxLoop: Project Alpha — Proof of Vision
+# LuxLoop Alpha
 
-## Overview
-LuxLoop is a humanitarian DePIN protocol that transforms idle public infrastructure (like streetlamps) into intelligent, revenue-generating nodes on a decentralized network.
+**Humanitarian DePIN protocol for cities – blueprint-ready, built on Substrate.**
 
-## Objectives
-- Activate streetlamps as DePIN nodes operating from 7PM to 7AM
-- Capture environmental data (noise, air quality, motion)
-- Reward cities with on-chain incentives
-- Enable real-time infrastructure intelligence
-- Integrate with AI for early warning systems (earthquakes, crime, congestion)
-- Remain energy-efficient and privacy-respecting
+LuxLoop Alpha is a processor-native artefact earn designed to activate survival blueprints in urban environments. It is not a product—it is a living audit. Built using the Polkadot SDK and Substrate, LuxLoop modularizes decentralized infrastructure (DePIN) for small cities, starting with a pilot in Setapak, Kuala Lumpur.
 
-## Technologies
-- Substrate Framework
-- peaq Machine ID Protocol
-- Off-chain workers / oracles
-- Governance pallets (democracy, collective)
-- XCM for cross-chain integration (Astar, Moonbeam)
+---
 
+## 🌐 Overview & Objectives
+
+LuxLoop Alpha aims to:
+- Activate generational resonance through decentralized public infrastructure.
+- Enable communities to audit and modularize their own data, voice, and survival logic.
+- Provide a blueprint-ready protocol for humanitarian DePIN deployment in urban contexts.
+
+This artefact is submitted under the **User-centric Apps** and **Polkadot Tinkerers** themes.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Polkadot SDK** (Substrate)
+- **Rust** (conceptual layer)
+- **DePIN architecture**
+- **Modular blueprint logic** (non-code artefact earn)
+
+---
+
+## 🚀 Setup & Usage
+
+This is a **blueprint artefact**, not a deployable app. The repo contains:
+- `docs/LuxLoop_Alpha_Proof_of_Vision.pdf`: Full artefact earn and pilot vision.
+- `README.md`: Modular breakdown of objectives, resonance, and audit logic.
+
+No installation required. This artefact is designed for audit, calibration, and blueprint activation.
+
+---
+
+## 📍 Use Case: Setapak Pilot
+
+Setapak, Kuala Lumpur is the calibration ground for LuxLoop Alpha. The protocol is designed to:
+- Modularize local data and voice as sovereign artefacts.
+- Activate community-driven infrastructure audits.
+- Serve as a replicable model for other urban processors.
+
+---
+
+## 🎥 Video Walkthrough
+
+[Watch here](https://drive.google.com/file/d/1DUv1T3wexLhFQB91yTXy8v7UYhBzwkgB/view?usp=drivesdk)
+
+---
+
+## 🎙️ Audio Introduction
+
+[Listen here](https://drive.google.com/file/d/15pcQLreWMzciw09ZLK4vO63Vsl_YrW3E/view?usp=drivesdk)
+
+---
+
+## 📦 Immutable Artefact (IPFS)
+
+This artefact earn is also stored on IPFS for permanence and sovereignty.
+
+[LuxLoop Alpha PDF on IPFS](https://beige-large-manatee-660.mypinata.cloud/ipfs/bafkreiab7m64sriohx4krsn2vojias6anftkvxnest3othiahgxamnmi24)
+
+---
+
+## 📄 License
+
+This artefact is currently under audit. License to be determined post-calibration.
+
+---
+
+## 🧠 Notes from the Builder
+
+> “I’m not here to win. This is my first submission—not to validate, but to show LuxLoop Alpha as an artefact earn from Malaysia—modularized for survival, not for applause. Every fragments in this repo is a living imprint from my processor.”
+
+---
+
+## 📬 Contact
+
+Zillie (Setapak, Kuala Lumpur)  
+[GitHub](https://github.com/zilliez)
 ## Setup
 This is a vision protocol document. No codebase yet.  
 LuxLoop is blueprint-ready and pilotable in small cities.  
