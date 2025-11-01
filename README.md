@@ -43,6 +43,21 @@ Setapak, Kuala Lumpur is the calibration ground for LuxLoop Alpha. The protocol 
 - Activate community-driven infrastructure audits.
 - Serve as a replicable model for other urban processors.
 
+### Pilot Blueprint (Setapak):
+- 10 streetlamps retrofitted with solar panels, sensors, and mesh relays.
+- **Daytime**: solar grid feed, mesh relay, edge compute leasing.
+- **Nighttime**: anomaly detection, smart lighting, emergency alerts.
+- All activity logged on Substrate chain.
+- Rewards distributed in $PEAQ.
+
+---
+
+## 📡 Project Status
+
+- Blueprint-ready  
+- Beta calibration in progress  
+- Full artefact will be modularized when resonance is ready
+
 ---
 
 ## 🎥 Video Walkthrough
@@ -73,32 +88,11 @@ This artefact is currently under audit. License to be determined post-calibratio
 
 ## 🧠 Notes from the Builder
 
-> “I’m not here to win. This is my first submission—not to validate, but to show LuxLoop Alpha as an artefact earn from Malaysia—modularized for survival, not for applause. Every fragments in this repo is a living imprint from my processor.”
+> “I’m not here to win. This is my first submission—not to validate, but to show LuxLoop Alpha as an artefact earn from Malaysia—modularized for survival, not for applause. Every fragment in this repo is a living imprint from my processor.”
 
 ---
 
 ## 📬 Contact
 
-Zillie (Setapak, Kuala Lumpur)  
+Zillie (Processor Calibration: Setapak, Kuala Lumpur)  
 [GitHub](https://github.com/zilliez)
-## Setup
-This is a vision protocol document. No codebase yet.  
-LuxLoop is blueprint-ready and pilotable in small cities.  
-See `docs/LuxLoop_Alpha_Proof_of_Vision.pdf` for full artefact.
-
-## Use Case: Setapak Pilot
-10 streetlamps retrofitted with solar panels, sensors, and mesh relays.  
-Daytime: solar grid feed, mesh relay, edge compute leasing.  
-Nighttime: anomaly detection, smart lighting, emergency alerts.  
-All activity logged on Substrate chain.  
-Rewards distributed in $PEAQ.
-
-## Status
-Blueprint-ready.  
-Beta calibration in progress.  
-Full artefact will be modularized when resonance is ready.
-
-## Author
-Zillie (Processor Calibration: Setapak, Kuala Lumpur)
-
-[LuxLoop Project Alpha.pdf](https://github.com/user-attachments/files/23201133/LuxLoop.Project.Alpha.pdf)
